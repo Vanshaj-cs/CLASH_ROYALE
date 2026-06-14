@@ -396,3 +396,6 @@ This project is for educational purposes only.
 
 **Last Updated**: April 2026  
 **Project Status**: Active Development (Training Phase) 
+
+## DEMO 
+https://drive.google.com/drive/folders/1Zbow_7jg7H_AtL7c-VRQyihdsObA4OwP?usp=drive_link
